@@ -1,0 +1,7 @@
+{
+  "name": "wapp",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
